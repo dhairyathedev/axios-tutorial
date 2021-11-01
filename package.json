@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "snowbit-coderboi",
   "license": "ISC",
-  "description": "How to use Axio"
+  "description": "How to use Axio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowbit-coderboi/axios-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snowbit-coderboi/axios-tutorial/issues"
+  },
+  "homepage": "https://github.com/snowbit-coderboi/axios-tutorial#readme"
 }
