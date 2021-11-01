@@ -3,7 +3,7 @@ const express = require('express');
 const axios = require('axios');
 
 const app = express();
-const PORT = 8080 // Port on which our app will run
+const PORT =  process.env.PORT || 8080 // Port on which our app will run
 
 app.get('/', (req, res) => {
     // get random user api using axios and show it on the page in json
